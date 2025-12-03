@@ -1,4 +1,4 @@
-# **LLM From Scratch (GPT-2 Architecture)**
+# **FluxLm (GPT-2 Architecture)**
 
 ## 📖 **Project Overview**
 
